@@ -1,0 +1,13 @@
+/* about.css */
+.about-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.about-image {
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto;
+}
